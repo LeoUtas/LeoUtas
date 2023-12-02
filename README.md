@@ -1,8 +1,6 @@
 <h2 align="center">Good day 👋, I'm Hoang</h2>
 <h5 align="center" style="font-weight: 600;"> I am a graduate student at Memorial University of Newfoundland, and I have a passion for applied quantitative analysis</h5>
 
-<br>
-
 <h4 align="center">About me</h4>
 
 <!-- Main card container -->
@@ -109,7 +107,6 @@
     </ul>
 </div>
 
-<br>
 <br>
 
 -   🌱 Each day brings new growth in my journey with applied data science, especially in the realm of computer vision.
