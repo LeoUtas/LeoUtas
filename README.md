@@ -59,6 +59,17 @@
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
+        <a href="https://github.com/LeoUtas/bird_classification_research.git" style="text-decoration: none; color: #3498db;">Bird classification research</a>
+    </h5>
+    <ul style="padding-left: 20px; list-style-type: circle;">
+        <li>This repository offers source code for a bird classification model that can identify 524 species. It's designed for efficiently testing various model architectures, including: InceptionV3, MobileNetV1, MobileNetV2 and YOLOv8.
+        </li>
+        <li>Built with Pytorch, TensorFlow, numpy, pandas, Docker, AWS EC2, AWS S3.</li>
+    </ul>
+</div>
+
+<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
+    <h5 style="margin-bottom: 5px; color: #2c3e50;">
         <a href="https://github.com/LeoUtas/react_portfolio.git" style="text-decoration: none; color: #3498db;">Bird classification using a customized MobileNet model</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
