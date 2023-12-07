@@ -74,7 +74,7 @@
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
         <li>This repository houses the source code of a web application designed for bird species classification.</li>
-        <li>Built with TensorFlow, numpy, pandas, Flask, JavaScript, HTML, CSS (Bootstrap) and Docker.</li>
+        <li>Built with TensorFlow, numpy, pandas, Flask, JavaScript, HTML, CSS (Bootstrap), Docker and Github Action.</li>
     </ul>
 </div>
 
