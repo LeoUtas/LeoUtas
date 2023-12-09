@@ -59,6 +59,17 @@
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
+        <a href="https://github.com/LeoUtas/bird_classification_research.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation research using Detectron2</a>
+    </h5>
+    <ul style="padding-left: 20px; list-style-type: circle;">
+        <li>This repository hosts the source code for an instance segmentation project, focusing on segmenting mitochondria in microscopic images. Detectron2 <a href="https://github.com/facebookresearch/detectron2/blob/main/README.md"> (Wu et al., 2019) </a> has been utilized as the primary tool for this task..
+        </li>
+        <li>Built with Pytorch, Detectron2, Opencv, numpy, pandas, scikit-image, leafmap, matplotlib, seaborn and Docker.</li>
+    </ul>
+</div>
+
+<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
+    <h5 style="margin-bottom: 5px; color: #2c3e50;">
         <a href="https://github.com/LeoUtas/bird_classification_research.git" style="text-decoration: none; color: #3498db;">Bird classification research</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
