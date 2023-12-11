@@ -86,9 +86,38 @@
     <ul style="padding-left: 20px; list-style-type: circle;">
         <li>This repository hosts the source code for a web application designed for instance segmentation tasks. It detects and segments mitochondria in microscopy images. The core of this application leverages the architecture of the You Only Look Once framework (i.e., <a href="https://github.com/ultralytics/ultralytics"> YOLOv8 </a>).
         </li>
-        <li>Built with Pytorch, YOLOv8, opencv-python, numpy, pandas, scikit-image, leafmap, matplotlib, seaborn, Flask, JavaScript, HTML, CSS and Docker.</li>
+        <li>Built with Pytorch, YOLOv8, opencv-python, numpy, pandas, scikit-image, Flask, JavaScript, HTML, CSS and Docker.</li>
     </ul>
 </div>
+
+<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
+    <h5 style="margin-bottom: 5px; color: #2c3e50;">
+        <a href="https://github.com/LeoUtas/Mitochondria_segmentation_flask_detectron2.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation web application using Detectron2</a>
+    </h5>
+    <ul style="padding-left: 20px; list-style-type: circle;">
+        <li>This repository hosts the source code for a web application designed for instance segmentation tasks. It detects and segments mitochondria in microscopy images. Detectron2 <a href="https://github.com/facebookresearch/detectron2/blob/main/README.md"> (Wu et al., 2019) </a> was utilized as the primary tool for this task.
+        </li>
+        <li>Built with Pytorch, Detectron2, opencv-python, numpy, pandas, scikit-image, Flask, JavaScript, HTML, CSS and Docker.</li>
+    </ul>
+</div>
+
+
+
+
+<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
+    <h5 style="margin-bottom: 5px; color: #2c3e50;">
+        <a href="https://github.com/LeoUtas/Mitochondria_segmentation_flask_2models.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation web application using Detectron2 and YOLOv8 for better comparison</a>
+    </h5>
+    <ul style="padding-left: 20px; list-style-type: circle;">
+        <li>This repository hosts the source code for a web application designed for instance segmentation tasks. It detects and segments mitochondria in microscopy images. Two architectures, Detectron2 <a href="https://github.com/facebookresearch/detectron2/blob/main/README.md"> (Wu et al., 2019) </a> and You Only Look Once (i.e., <a href="https://github.com/ultralytics/ultralytics"> YOLOv8 </a>) were utilized in this task for better model comparison.
+        </li>
+        <li>Built with Pytorch, Detectron2, YOLOv8, opencv-python, numpy, pandas, scikit-image, Flask, JavaScript, HTML, CSS and Docker.</li>
+    </ul>
+</div>
+
+
+
+
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
