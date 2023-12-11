@@ -92,7 +92,7 @@
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/react_portfolio.git" style="text-decoration: none; color: #3498db;">Bird classification web app using a customized MobileNet model</a>
+        <a href="https://github.com/LeoUtas/bird_classification_flask_MobileNet.git" style="text-decoration: none; color: #3498db;">Bird classification web app using a customized MobileNet model</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
         <li>This repository houses the source code of a web application designed for bird species classification.</li>
