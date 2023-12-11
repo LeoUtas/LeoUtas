@@ -101,9 +101,6 @@
     </ul>
 </div>
 
-
-
-
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
         <a href="https://github.com/LeoUtas/Mitochondria_segmentation_flask_2models.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation web application using Detectron2 and YOLOv8 for better comparison</a>
@@ -114,10 +111,6 @@
         <li>Built with Pytorch, Detectron2, YOLOv8, opencv-python, numpy, pandas, scikit-image, Flask, JavaScript, HTML, CSS and Docker.</li>
     </ul>
 </div>
-
-
-
-
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
