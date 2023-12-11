@@ -73,9 +73,20 @@
         <a href="https://github.com/LeoUtas/Mitochondria_segmentation_research_YOLOv8.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation research using YOLOv8</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This repository contains the source code for an instance segmentation project, focusing on segmenting mitochondria in microscopic images. The architecture of You Only Look Once framework (i.e.,<a href="https://github.com/ultralytics/ultralytics"> YOLOv8</a>) has been utilized as the primary tool for this task..
+        <li>This repository contains the source code for an instance segmentation project, focusing on segmenting mitochondria in microscopic images. The architecture of You Only Look Once framework (i.e.,<a href="https://github.com/ultralytics/ultralytics"> YOLOv8</a>) has been utilized as the primary tool for this task.
         </li>
         <li>Built with Pytorch, YOLOv8, Opencv, numpy, pandas, scikit-image, leafmap, matplotlib, seaborn and Docker.</li>
+    </ul>
+</div>
+
+<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
+    <h5 style="margin-bottom: 5px; color: #2c3e50;">
+        <a href="https://github.com/LeoUtas/Mitochondria_segmentation_flask_YOLOv8.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation web application using YOLOv8</a>
+    </h5>
+    <ul style="padding-left: 20px; list-style-type: circle;">
+        <li>This repository hosts the source code for a web application designed for instance segmentation tasks. It detects and segments mitochondria in microscopy images. The core of this application leverages the architecture of the You Only Look Once framework (i.e., <a href="https://github.com/ultralytics/ultralytics"> YOLOv8 </a>).
+        </li>
+        <li>Built with Pytorch, YOLOv8, opencv-python, numpy, pandas, scikit-image, leafmap, matplotlib, seaborn, Flask, JavaScript, HTML, CSS and Docker.</li>
     </ul>
 </div>
 
