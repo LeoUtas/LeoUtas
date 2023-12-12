@@ -97,7 +97,7 @@
     <ul style="padding-left: 20px; list-style-type: circle;">
         <li>This repository hosts the source code for a web application designed for instance segmentation tasks. It detects and segments mitochondria in microscopy images. Detectron2 <a href="https://github.com/facebookresearch/detectron2/blob/main/README.md"> (Wu et al., 2019) </a> was utilized as the primary tool for this task.
         </li>
-        <li>Built with Pytorch, Detectron2, opencv-python, numpy, pandas, scikit-image, Flask, JavaScript, HTML, CSS and Docker.</li>
+        <li>Built with Pytorch, Detectron2, opencv-python, numpy, pandas, scikit-image, Flask, JavaScript, HTML, CSS, Docker and Github Action.</li>
     </ul>
 </div>
 
