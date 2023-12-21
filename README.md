@@ -27,7 +27,8 @@
       <li>JavaScript, HTML, CSS</li>
       <li>PostgreSQL</li>
       <li>AWS EC2, S3</li>
-      <li>Docker, Github Action</li>
+      <
+li>Docker, Github Action</li>
     </ul>
   </div>
 
@@ -64,7 +65,7 @@
         <a href="https://github.com/LeoUtas/2-layer_neural_network.git" style="text-decoration: none; color: #3498db;">2-Layer Neural Network from Scratch</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
-        <li> the development of a 2-layer neural network (NN) only using NumPy. This project is a practical introduction to the fundamentals of deep learning and neural network architecture. The main focus will be on the step-by-step construction of the network, aiming to provide a clear and straightforward understanding of its underlying mechanics (i.e., the mathematics behind NNs).</li>
+        <li> The development of a 2-layer neural network (NN) only using NumPy. This project is a practical introduction to the fundamentals of deep learning and neural network architecture. The main focus will be on the step-by-step construction of the network, aiming to provide a clear and straightforward understanding of its underlying mechanics (i.e., the mathematics behind NNs).</li>
         <li>Built with numpy, pandas, matplotlib and seaborn.</li>
     </ul>
 </div>
