@@ -45,6 +45,8 @@
 
 </div>
 
+</br>
+
 <h4 align="center">My repositories</h4>
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
@@ -59,10 +61,20 @@
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
+        <a href="https://github.com/LeoUtas/2-layer_neural_network.git" style="text-decoration: none; color: #3498db;">2-Layer Neural Network from Scratch</a>
+    </h5>
+    <ul style="padding-left: 20px; list-style-type: circle;">
+        <li> the development of a 2-layer neural network (NN) only using NumPy. This project is a practical introduction to the fundamentals of deep learning and neural network architecture. The main focus will be on the step-by-step construction of the network, aiming to provide a clear and straightforward understanding of its underlying mechanics (i.e., the mathematics behind NNs).</li>
+        <li>Built with numpy, pandas, matplotlib and seaborn.</li>
+    </ul>
+</div>
+
+<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
+    <h5 style="margin-bottom: 5px; color: #2c3e50;">
         <a href="https://github.com/LeoUtas/Mitochondria_segmentation_research_detectron2.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation research using Detectron2</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This repository hosts the source code for an instance segmentation project, focusing on segmenting mitochondria in microscopic images. Detectron2 <a href="https://github.com/facebookresearch/detectron2/blob/main/README.md"> (Wu et al., 2019) </a> has been utilized as the primary tool for this task..
+        <li>This repository hosts the source code for an instance segmentation project, focusing on segmenting mitochondria in microscopic images. Detectron2 <a href="https://github.com/facebookresearch/detectron2/blob/main/README.md"> (Wu et al., 2019) </a> has been utilized as the primary tool for this task.
         </li>
         <li>Built with Pytorch, Detectron2, Opencv, numpy, pandas, scikit-image, leafmap, matplotlib, seaborn and Docker.</li>
     </ul>
