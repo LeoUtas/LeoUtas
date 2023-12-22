@@ -27,8 +27,7 @@
       <li>JavaScript, HTML, CSS</li>
       <li>PostgreSQL</li>
       <li>AWS EC2, S3</li>
-      <
-li>Docker, Github Action</li>
+      <li>Docker, Github Action</li>
     </ul>
   </div>
 
