@@ -26,7 +26,7 @@
       <li>R</li>
       <li>JavaScript, HTML, CSS</li>
       <li>PostgreSQL</li>
-      <li>AWS EC2, S3</li>
+      <li>AWS EC2, S3, SageMaker</li>
       <li>Docker, Github Action</li>
     </ul>
   </div>
@@ -56,6 +56,16 @@
     <ul style="padding-left: 20px; list-style-type: circle;">
         <li>This portfolio is more than just a showcase of my work; it's a reflection of my journey and skills.</li>
         <li>Built with ReactJS, HTML, CSS and GitHub Actions.</li>
+    </ul>
+</div>
+
+<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
+    <h5 style="margin-bottom: 5px; color: #2c3e50;">
+        <a href="https://github.com/LeoUtas/sagemaker_binary_mnist.git" style="text-decoration: none; color: #3498db;">Using AWS SageMaker to construct a Neural Network from scratch</a>
+    </h5>
+    <ul style="padding-left: 20px; list-style-type: circle;">
+        <li> This article provides the development of a 3-layer Neural Network (NN) from sratch (i.e., only using Numpy) for solving the binary MNIST dataset. This project offers a practical guide to the foundational aspects of deep learning and the architecture of neural networks. It primarily concentrates on building the network from the ground up (i.e., the mathematics running underthe hood of NNs).</li>
+        <li>Built with numpy, pandas, matplotlib, AWS SageMaker and AWS S3.</li>
     </ul>
 </div>
 
