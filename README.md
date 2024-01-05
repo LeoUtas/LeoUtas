@@ -61,6 +61,16 @@
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
+        <a href="https://todotoday0.netlify.app/" style="text-decoration: none; color: #3498db;">To do today</a>
+    </h5>
+    <ul style="padding-left: 20px; list-style-type: circle;">
+        <li>This original project was built to help me track my daily to-do list. The app allows users to add new tasks, check completed tasks, and remove tasks from the list. Also, users can start a new day to monitor new daily tasks when the day is over. An important feature is tracking the percentage of completed tasks during the day throughout the user’s history.</li>
+        <li>Built with ReactJS, HTML and CSS.</li>
+    </ul>
+</div>
+
+<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
+    <h5 style="margin-bottom: 5px; color: #2c3e50;">
         <a href="https://github.com/LeoUtas/sagemaker_binary_mnist.git" style="text-decoration: none; color: #3498db;">Using AWS SageMaker to construct a Neural Network from scratch</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
