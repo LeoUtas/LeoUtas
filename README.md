@@ -71,7 +71,7 @@
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/sagemaker_binary_mnist.git" style="text-decoration: none; color: #3498db;">A Neural Network solving a binary MNIST from scratch</a>
+        <a href="https://github.com/LeoUtas/sagemaker_binary_mnist.git" style="text-decoration: none; color: #3498db;">Neural Network solving a binary MNIST from scratch</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
         <li> This article provides the development of a 3-layer Neural Network (NN) from sratch (i.e., only using Numpy) for solving the binary MNIST dataset. This project offers a practical guide to the foundational aspects of deep learning and the architecture of neural networks. It primarily concentrates on building the network from the ground up (i.e., the mathematics running underthe hood of NNs).</li>
