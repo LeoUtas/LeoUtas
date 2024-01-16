@@ -71,7 +71,7 @@
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/sagemaker_binary_mnist.git" style="text-decoration: none; color: #3498db;">Using AWS SageMaker to construct a Neural Network from scratch</a>
+        <a href="https://github.com/LeoUtas/sagemaker_binary_mnist.git" style="text-decoration: none; color: #3498db;">A Neural Network solving a binary MNIST from scratch</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
         <li> This article provides the development of a 3-layer Neural Network (NN) from sratch (i.e., only using Numpy) for solving the binary MNIST dataset. This project offers a practical guide to the foundational aspects of deep learning and the architecture of neural networks. It primarily concentrates on building the network from the ground up (i.e., the mathematics running underthe hood of NNs).</li>
@@ -91,97 +91,65 @@
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/Mitochondria_segmentation_research_detectron2.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation research using Detectron2</a>
+        <a href="https://github.com/LeoUtas/Mitochondria_segmentation_flask_detectron2.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This repository hosts the source code for an instance segmentation project, focusing on segmenting mitochondria in microscopic images. Detectron2 <a href="https://github.com/facebookresearch/detectron2/blob/main/README.md"> (Wu et al., 2019) </a> has been utilized as the primary tool for this task.
+        <li>This project includes 5 repositories:
+            <ul>
+                <li>
+                <a href="https://github.com/LeoUtas/Mitochondria_segmentation_research_detectron2.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation research using Detectron2</a>
+                </li>
+                <li>
+                <a href="https://github.com/LeoUtas/Mitochondria_segmentation_research_YOLOv8.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation research using YOLOv8</a>
+                </li>                
+                <li>
+               <a href="https://github.com/LeoUtas/Mitochondria_segmentation_flask_detectron2.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation web application using Detectron2</a>
+                </li>
+                <li>
+                <a href="https://github.com/LeoUtas/Mitochondria_segmentation_flask_YOLOv8.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation web application using YOLOv8</a>
+                </li>
+                <li>
+                <a href="https://github.com/LeoUtas/Mitochondria_segmentation_flask_2models.git">Mitochondria instance segmentation web application using Detectron2 and YOLOv8 for better comparison</a>
+                </li>
+            </ul>
         </li>
-        <li>Built with Pytorch, Detectron2, Opencv, numpy, pandas, scikit-image, leafmap, matplotlib, seaborn and Docker.</li>
-    </ul>
-</div>
-
-<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
-    <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/Mitochondria_segmentation_research_YOLOv8.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation research using YOLOv8</a>
-    </h5>
-    <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This repository contains the source code for an instance segmentation project, focusing on segmenting mitochondria in microscopic images. The architecture of You Only Look Once framework (i.e.,<a href="https://github.com/ultralytics/ultralytics"> YOLOv8</a>) has been utilized as the primary tool for this task.
+        <li>
+            I attempted to solve the task using 2 different tools (i.e., <a href="https://github.com/facebookresearch/detectron2/blob/main/README.md">Detectron</a> and <a href="https://github.com/ultralytics/ultralytics"> YOLOv8 </a>). I did comparative research on the performance of the two models. The results indicated that, for this particular task, Detectron2 demonstrated superior performance over YOLOv8. However, in some cases, YOLOv8 performed better on the task of object detection.
+            Detectron2 was chosen to deploy on a web application for this instance segmentation tasks <a href="https://mito-app-651cbfda9bde.herokuapp.com/">(visit the live demo)</a>.
         </li>
-        <li>Built with Pytorch, YOLOv8, Opencv, numpy, pandas, scikit-image, leafmap, matplotlib, seaborn and Docker.</li>
-    </ul>
-</div>
-
-<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
-    <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/Mitochondria_segmentation_flask_YOLOv8.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation web application using YOLOv8</a>
-    </h5>
-    <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This repository hosts the source code for a web application designed for instance segmentation tasks. It detects and segments mitochondria in microscopy images. The core of this application leverages the architecture of the You Only Look Once framework (i.e., <a href="https://github.com/ultralytics/ultralytics"> YOLOv8 </a>).
+        <li>
+            Built with Pytorch, Detectron2, YOLOv8, opencv-python, numpy, pandas, scikit-image, Flask, JavaScript, HTML, CSS, Docker and Github Action.
         </li>
-        <li>Built with Pytorch, YOLOv8, opencv-python, numpy, pandas, scikit-image, Flask, JavaScript, HTML, CSS and Docker.</li>
     </ul>
 </div>
 
 <div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
     <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/Mitochondria_segmentation_flask_detectron2.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation web application using Detectron2</a>
+        <a href="https://github.com/LeoUtas/bird_classification_flask_MobileNet.git" style="text-decoration: none; color: #3498db;">Bird classification</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This repository hosts the source code for a web application designed for instance segmentation tasks. It detects and segments mitochondria in microscopy images. Detectron2 <a href="https://github.com/facebookresearch/detectron2/blob/main/README.md"> (Wu et al., 2019) </a> was utilized as the primary tool for this task.
+        <li>This project includes 4 repositories:
+            <ul>                
+                <li>
+                <a href="https://github.com/LeoUtas/bird_classification_research.git" style="text-decoration: none; color: #3498db;">Bird classification research</a>
+                </li>
+                <li>
+                <a href="https://github.com/LeoUtas/bird_classification_flask_MobileNet.git" style="text-decoration: none; color: #3498db;">Bird classification web application using MobileNet model</a>
+                </li>
+                <li>
+                <a href="https://github.com/LeoUtas/bird_classification_flask_YOLOv8.git" style="text-decoration: none; color: #3498db;">Bird classification web application using YOLOv8 model</a>
+                </li>
+                <li>
+                <a href="https://github.com/LeoUtas/bird_classification_flask_2models.git">Bird classification web app using MobileNet and YOLOv8 for better comparing model performances</a>
+                </li>                                
+            </ul>
         </li>
-        <li>Built with Pytorch, Detectron2, opencv-python, numpy, pandas, scikit-image, Flask, JavaScript, HTML, CSS, Docker and Github Action.</li>
-    </ul>
-</div>
-
-<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
-    <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/Mitochondria_segmentation_flask_2models.git" style="text-decoration: none; color: #3498db;">Mitochondria instance segmentation web application using Detectron2 and YOLOv8 for better comparison</a>
-    </h5>
-    <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This repository hosts the source code for a web application designed for instance segmentation tasks. It detects and segments mitochondria in microscopy images. Two architectures, Detectron2 <a href="https://github.com/facebookresearch/detectron2/blob/main/README.md"> (Wu et al., 2019) </a> and You Only Look Once (i.e., <a href="https://github.com/ultralytics/ultralytics"> YOLOv8 </a>) were utilized in this task for better model comparison.
+        <li>
+            I attempted to solve the task using 4 different tools (i.e., InceptionV3, MobileNetV1, MobileNetV2 and YOLOv8). After evaluating performance metrics and processing speed, MobileNetV1 was chosen as the most suitable model for this task <a href="https://bird-classification524-b310a542793a.herokuapp.com/">(visit the live demo)</a>.
         </li>
-        <li>Built with Pytorch, Detectron2, YOLOv8, opencv-python, numpy, pandas, scikit-image, Flask, JavaScript, HTML, CSS and Docker.</li>
-    </ul>
-</div>
-
-<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
-    <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/bird_classification_research.git" style="text-decoration: none; color: #3498db;">Bird classification research</a>
-    </h5>
-    <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This repository offers source code for a bird classification model that can identify 524 species. It's designed for efficiently testing various model architectures, including: InceptionV3, MobileNetV1, MobileNetV2 and YOLOv8.
+        <li>
+            Built with Pytorch, TensorFlow, numpy, pandas, Flask, JavaScript, HTML, CSS, AWS EC2, AWS S3, Docker and Github Action.
         </li>
-        <li>Built with Pytorch, TensorFlow, numpy, pandas, Docker, AWS EC2, AWS S3.</li>
-    </ul>
-</div>
-
-<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
-    <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/bird_classification_flask_MobileNet.git" style="text-decoration: none; color: #3498db;">Bird classification web app using a customized MobileNet model</a>
-    </h5>
-    <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This repository houses the source code of a web application designed for bird species classification.</li>
-        <li>Built with TensorFlow, numpy, pandas, Flask, JavaScript, HTML, CSS (Bootstrap), Docker and Github Action.</li>
-    </ul>
-</div>
-
-<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
-    <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/bird_classification_flask_YOLOv8.git" style="text-decoration: none; color: #3498db;">Bird classification web app using a customized YOLOv8 model</a>
-    </h5>
-    <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This repository contains the source code for a web application that classifies bird species developed from YOLOv8.</li>
-        <li>Built with Pytorch, YOLOv8, numpy, pandas, Flask, JavaScript, HTML, CSS (Bootstrap) and Docker.</li>
-    </ul>
-</div>
-
-<div style="margin: 10px; padding: 15px; border: 1px solid #ddd; border-radius: 25px; background-color: #f9f9f9;">
-    <h5 style="margin-bottom: 5px; color: #2c3e50;">
-        <a href="https://github.com/LeoUtas/bird_classification_flask_2models.git" style="text-decoration: none; color: #3498db;">Bird classification web app using MobileNet and YOLOv8 for better comparing model performances</a>
-    </h5>
-    <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This repository is a combination of the two approaches, MobileNet and YOLOv8.</li>
-        <li>Built with Pytorch, YOLOv8, TensorFlow, numpy, pandas, Flask, JavaScript, HTML, CSS (Bootstrap) and Docker.</li>
     </ul>
 </div>
 
