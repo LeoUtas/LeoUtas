@@ -64,8 +64,8 @@
         <a href="https://todotoday0.netlify.app/" style="text-decoration: none; color: #3498db;">To do today</a>
     </h5>
     <ul style="padding-left: 20px; list-style-type: circle;">
-        <li>This original project was built to help me track my daily to-do list. The app allows users to add new tasks, check completed tasks, and remove tasks from the list. Also, users can start a new day to monitor new daily tasks when the day is over. An important feature is tracking the percentage of completed tasks during the day throughout the user’s history.</li>
-        <li>Built with ReactJS, HTML and CSS.</li>
+        <li>This original project helps to keep track of daily to-do list. It leverages Openai API to generate inspiring messages throughout the day. Users can add new tasks, check completed tasks, remove tasks and start a new day when the day is over. An important feature is tracking the percentage of completed tasks each day throughout history.</li>
+        <li>Built with ReactJS, HTML, CSS, Python (FastAPI) and OpenAI API.</li>
     </ul>
 </div>
 
