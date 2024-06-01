@@ -1,5 +1,5 @@
 <h2 align="center">Good day 👋, I'm Hoang</h2>
-<h5 align="center" style="font-weight: 600;"> I am a graduate student at Memorial University of Newfoundland, and I have a passion for applied quantitative analysis, especially in the realm of computer vision</h5>
+<h3 align="center" style="font-weight: 600;"> I am a graduate student at Memorial University of Newfoundland, and this page is no longer updated; I switched to using my portfolio site to update my recent work.  <a href="https://leoutas.github.io/react_portfolio/#" style="text-decoration: none; color: #3498db;"> My Portfolio </a> </h3>
 
 <h4 align="center">About me</h4>
 
@@ -24,9 +24,9 @@
     <ul>
       <li>Python</li>
       <li>R</li>
-      <li>JavaScript, HTML, CSS</li>
-      <li>PostgreSQL</li>
-      <li>AWS EC2, S3, SageMaker</li>
+      <li>React JS, React Native, HTML, CSS</li>
+      <li>mySQL</li>
+      <li>AWS EC2, S3, SageMaker, RDS, Glue</li>
       <li>Docker, Github Action</li>
     </ul>
   </div>
