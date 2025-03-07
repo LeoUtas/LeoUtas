@@ -1,5 +1,5 @@
 <h2 align="center">Good day 👋, I'm Hoang</h2>
-<h3 align="center" style="font-weight: 600;"> I am a graduate student at Memorial University of Newfoundland, and this page is no longer updated; I switched to using my portfolio site to update my recent work.  <a href="https://leoutas.github.io/react_portfolio/#" style="text-decoration: none; color: #3498db;"> My Portfolio </a> </h3>
+<h3 align="center" style="font-weight: 600;"> I am a graduate student at Memorial University of Newfoundland, and this page is no longer updated; I switched to using my portfolio site to update my recent work.  <a href="https://leoutas.github.io/me/#" style="text-decoration: none; color: #3498db;"> My Portfolio </a> </h3>
 
 <h4 align="center">About me</h4>
 
